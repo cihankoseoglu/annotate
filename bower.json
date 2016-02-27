@@ -1,0 +1,21 @@
+{
+  "name": "annotate.io",
+  "description": "A song annotation app, that looks a lot like soundcloud's annotation feature based on a particular point of a song. We will use songs from youtube, and people will annotate any point of that song. The youtube link, it's contents such as title and length, an annotation object that holds a time, user and comment object is going to be kept.",
+  "main": "app.js",
+  "authors": [
+    "Cihan Koseoglu <cihan@cihankoseoglu.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "annotate"
+  ],
+  "homepage": "https://github.com/cihankoseoglu/annotate",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
